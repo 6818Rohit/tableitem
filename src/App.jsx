@@ -120,7 +120,7 @@
 // export default App
 import React, { useState } from 'react';
 import Navbar from './Components/navbar/Navbar';
-import { Route, Routes } from 'react-router-dom';
+import { RouteS,Route} from 'react-router-dom';
 import Home1 from './pages/Home/Home1';
 import Cart from './pages/Cart/Cart';
 import Placeorder from './pages/Placeorder/Placeorder';
